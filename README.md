@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naman Jain, currently in my 2nd year of BTech in Computer Science Engineering, from Nirma University, Ahmedabad.
+- 👋 Hi, I’m Naman Jain, currently in my 3rd year of BTech in Computer Science Engineering, from Nirma University, Ahmedabad.
 - 💪 My strengths include ML/DL models, Logic building in Competitive Programming, Effective Communication and a Quick Learner
 - 👀 I’m interested in everything to do with AI/ML, Data Analytics, and a knack for the financial world with a strong business acumen.
 - 🌱 I’m currently completing a google certified course on data analytics with tools like R, Tableu, SQL. Simultaneously expanding my knowledge on Finance and Investments.  
